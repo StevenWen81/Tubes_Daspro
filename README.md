@@ -1,2 +1,2 @@
 # Tubes_Daspro
-Jalankan kantongajaib.py
+Run kantongajaib.py
